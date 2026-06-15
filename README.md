@@ -41,7 +41,7 @@
 
 ---
 
-Created by WenYao Lee
+Created by Fire Lee
 
 # Kyushu Road Trip Planner
 
@@ -72,4 +72,4 @@ https://你的網站網址
 
 ## Author
 
-WenYao Lee
+Fire Lee
