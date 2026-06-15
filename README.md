@@ -42,3 +42,34 @@
 ---
 
 Created by WenYao Lee
+
+# Kyushu Road Trip Planner
+
+A responsive travel planning website for a 6-day self-driving trip in Kyushu, Japan.
+
+## Features
+
+- Daily itinerary management
+- Google Maps integration
+- Accommodation information
+- Rental car information
+- Travel checklist
+- Mobile-friendly responsive design
+
+## Technology Stack
+
+- HTML5
+- CSS3
+- JavaScript
+
+## Route
+
+Fukuoka → Kumamoto → Takachiho → Aso → Yufuin → Beppu → Dazaifu → Fukuoka
+
+## Live Demo
+
+https://你的網站網址
+
+## Author
+
+WenYao Lee
